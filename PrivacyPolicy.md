@@ -14,4 +14,4 @@ As mentioned above, feel free to join the support server at any time and DM @Sar
 The usage of Kumo The Dog is not condoned for any users under the age of 13 or who do not meet the age of digital consent in their country and has not verified with a trusted parent/legal guardian, in conjunction with the Discord Terms of Services. If it is found out that user data has been stored for an underage user, steps will be taken to ensure that their ID will be removed from the database.
 
 ## Further Questions
-For any additional questions relating to how your sensitive data is stored, don't hesitate to message @Saracen#6210 on Discord!
+For any additional questions relating to how your sensitive data is stored, don't hesitate to message @Saracen#6210 on Discord and join the support server!
