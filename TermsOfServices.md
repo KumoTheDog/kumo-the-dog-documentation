@@ -27,6 +27,8 @@ Kumo's owner (@Saracen#6210) cannot be held liable for any users who choose to m
 
 Kumo The Dog is not made by or supported in any way by Discord directly. Any similarities to objects which have already been trademarked by Discord are completely coincidental and Saracen holds no responsibilities or claims for owning any pieces of property made by Discord.
 
+Please do not claim my code as yours. If you attempt to create clones of the bot in an attempt to get verified you will get a DMCA notice.
+
 ## Support
 
 Any inquries relating to Kumo as well as any issues related to data handling can be discussed by joining the [support server](https://discord.gg/gMk4vM4kyZ). For any sensitive info please DM @Saracen#6210 directly.
